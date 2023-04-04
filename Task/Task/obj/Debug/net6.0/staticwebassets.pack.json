@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Task.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Task.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\about.css",
+      "PackagePath": "staticwebassets\\assets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\about.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\about.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\account.css",
+      "PackagePath": "staticwebassets\\assets\\css\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\account.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\account.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\account.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\account.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\basket.css",
+      "PackagePath": "staticwebassets\\assets\\css\\basket.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\basket.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\basket.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\basket.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\basket.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\blog.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\blog.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\blog.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\checkout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\checkout.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\checkout.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\checkout.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\contact.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\product-detail.css",
+      "PackagePath": "staticwebassets\\assets\\css\\product-detail.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\product-detail.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\product-detail.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\product-detail.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\product-detail.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\wishlist.css",
+      "PackagePath": "staticwebassets\\assets\\css\\wishlist.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\wishlist.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\wishlist.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\css\\wishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Logo\\Sophia Logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Logo\\Sophia Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Logo\\logo-02-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Logo\\logo-02-01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Product Details\\avatar-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product Details\\avatar-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Product Details\\avatar-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product Details\\avatar-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Product Details\\avatar-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product Details\\avatar-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Slider images\\Head-phone.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Slider images\\Head-phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Slider images\\Laptop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Slider images\\Laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Slider images\\SingleWhatch.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Slider images\\SingleWhatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Slider images\\Smartphone.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Slider images\\Smartphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\Slider images\\Whatces.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Slider images\\Whatces.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\aboutUs\\expert1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutUs\\expert1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\aboutUs\\expert2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutUs\\expert2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\aboutUs\\expert3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutUs\\expert3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\aboutUs\\expert4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutUs\\expert4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\aboutUs\\informationImg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutUs\\informationImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\blog images\\blogImg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog images\\blogImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\Laptop Wifi Smart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\Laptop Wifi Smart.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\Tablet VX4000.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\Tablet VX4000.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\cameras.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\cameras.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\laptop (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\laptop (2).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\laptop Sens.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\laptop Sens.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\laptop extra.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\laptop extra.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\mobiles.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\mobiles.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\discounts\\tablet.png",
+      "PackagePath": "staticwebassets\\assets\\images\\discounts\\tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\flag-images\\England.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\flag-images\\England.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\flag-images\\Germany.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flag-images\\Germany.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\flag-images\\french.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\flag-images\\french.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\flag-images\\russian.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\flag-images\\russian.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\flag-images\\turkish.png",
+      "PackagePath": "staticwebassets\\assets\\images\\flag-images\\turkish.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\CAmera Hd 200.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\CAmera Hd 200.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Camera Xd pro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Camera Xd pro.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Classic camera.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Classic camera.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Extra thin elitte.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Extra thin elitte.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Lablet Sens7200.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Lablet Sens7200.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Laptop XS3000.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Laptop XS3000.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Notebook Polo 400.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Notebook Polo 400.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\ONTEC camera.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\ONTEC camera.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Smart Camera extra mini.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Smart Camera extra mini.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Smartphone  XS5000.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Smartphone  XS5000.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Smartphone Elitte Pro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Smartphone Elitte Pro.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Smartphone tablet.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Smartphone tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Tablet VX3000.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Tablet VX3000.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\Tablet VX4000.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Tablet VX4000.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\headphone1 (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\headphone1 (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\headphone1 (3).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\headphone1 (4).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (4).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\headphone1 (5).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1 (5).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\headphone1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\headphone1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\laptop (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop (1).png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\images\\products\\laptop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\assets\\js\\JavaScript.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\JavaScript1.js",
+      "PackagePath": "staticwebassets\\assets\\js\\JavaScript1.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\account.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\basket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\blog.js",
+      "PackagePath": "staticwebassets\\assets\\js\\blog.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\checkout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\product-detail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\product-detail.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\EntityFramework - Slider task\\Task\\Task\\wwwroot\\assets\\js\\wishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wishlist.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Task.props",
+      "PackagePath": "build\\Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Task.props",
+      "PackagePath": "buildMultiTargeting\\Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Task.props",
+      "PackagePath": "buildTransitive\\Task.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
